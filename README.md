@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hubertdgomes" alt="hubertdgomes" /></a> </p>
 
-- 🔭 I’m currently working on [ToDo And Notes]((https://to-do-app-4qrs.vercel.app/))
+- 🔭 I’m currently working on Social Loop((https://social-loop-client.vercel.app/))
 
 - 🌱 I’m currently learning **React JS, Framer Motion, GSAP**
 
